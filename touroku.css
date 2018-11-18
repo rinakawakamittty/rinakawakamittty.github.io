@@ -1,0 +1,37 @@
+*{
+    margin:0,15px
+    padding:0;
+}
+
+
+.name{
+    margin-top:5px;
+}
+
+.submit{
+    float:down;
+}
+
+textarea{
+  width:400px;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding:20px;
+  font-size:15Spx;
+  border:1px solid #dee7ec;
+}
+input{
+    font-size:15px;
+    margin-bottom:10px;
+    margin-top:10px;
+}
+
+.photo{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.contact-submit{
+    font-size:80px;
+}
+
