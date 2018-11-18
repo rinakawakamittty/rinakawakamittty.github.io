@@ -1,0 +1,19 @@
+    border-radius:0px 0px 10px 10px;
+}
+.profile{
+    padding:0px 20px 0px 20px;
+    line-height:35px;
+}
+hr{
+    margin:20px 0px 20px 0px;
+}
+footer{
+    position:fixed;
+    bottom:0;
+    background-color:#aacccc;
+    width:100%;
+    text-align:center;
+    color:#666666;
+    padding:20px 0px 20px 0px;
+    font-size:11px;
+}
